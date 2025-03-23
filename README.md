@@ -5,10 +5,11 @@ I'm an IT student passionate about coding, design, and everything tech-related! 
 - 🎨 **Interests**: Web designing & development
 - 📚 **Learning**: JavaScript, CSS, and backend development
 - 💡 **Hobbies**: Coding, sketching, watching tech videos, and designing cool UIs
+  Also I'm just a girl 🎀
 
 ### 🔧 Tech Stack & Tools
 - 💻 **Programming Languages**: Java, C, HTML
-- 🌐 **Web Development**: HTML (Basics, for now 😉)
+- 🌐 **Web Development**: HTML (Basics, for now >.<)
 - 🛠 **Tools**: VS Code, IntelliJ IDEA, Git, GitHub
 - 🎨 **Design**: Figma, Canva (UI/UX exploration!)
 
