@@ -5,7 +5,8 @@ I'm an IT student passionate about coding, design, and everything tech-related! 
 - 🎨 **Interests**: Web designing & development
 - 📚 **Learning**: JavaScript, CSS, and backend development
 - 💡 **Hobbies**: Coding, sketching, watching tech videos, and designing cool UIs
-  Also I'm just a girl 🎀
+
+Also I'm just a girl 🎀
 
 ### 🔧 Tech Stack & Tools
 - 💻 **Programming Languages**: Java, C, HTML
